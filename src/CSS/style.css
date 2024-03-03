@@ -1,0 +1,9 @@
+.myHeader{
+    background-color: cadetblue;
+    color: wheat;
+}
+
+.myHeader h1{
+    margin: 0%;
+    padding: 5px;
+}
