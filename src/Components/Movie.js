@@ -1,6 +1,10 @@
 const Movie = () => {
   return (
-    <div>Movie</div>
+    <div className="movie">
+        <img src="" alt="" />
+        <p>Title</p>
+        <p>Year</p>
+    </div>
   )
 }
 
